@@ -32,3 +32,56 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+#project1 {
+     margin-left: 20px;
+     background-color: #C0E1FF;
+     padding: 20px;
+     width: 525px;
+}
+#project2 {
+     margin-left: 20px;
+     background-color: #FFCAF8;
+     padding: 20px;
+     width: 525px;
+}
+#project3 {
+     margin-left: 20px;
+     background-color: #FFCFAF;
+     padding: 20px;
+     width: 525px;
+}
+#project4 {
+     margin-left: 20px;
+     background-color: #FFF8BA;
+     padding: 20px;
+     width: 525px;
+}
+#project5 {
+     margin-left: 20px;
+     background-color: #D0FFBE;
+     padding: 20px;
+     width: 525px;
+}
+#project6 {
+     margin-left: 20px;
+     background-color: #ABFFD0;
+     padding: 20px;
+     width: 525px;
+}
+#project7 {
+     margin-left: 20px;
+     background-color: #A5B8FF;
+     padding: 20px;
+     width: 525px;
+}
+#project8 {
+     margin-left: 20px;
+     background-color: #C2B2FF;
+     padding: 20px;
+     width: 525px;
+}
+
+.project {
+    margin-left: 20px;
+}
